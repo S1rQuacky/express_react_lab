@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://s1rquacky.github.io/",
+      "git": "https://github.com/S1rQuacky/s1rquacky.github.io.git",
+      "image": "https://imgur.com/R7e1bPq"
+    },
+    {
+      "name": "project2",
+      "live": "https://quacky-project2.herokuapp.com/",
+      "git": "https://github.com/S1rQuacky/Ringo-Project2",
+      "image": "https://imgur.com/skQ8aO6"
+    }
+  ]
